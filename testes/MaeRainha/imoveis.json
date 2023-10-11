@@ -1,0 +1,2531 @@
+[{
+       "codigo":"LT -20",
+       "valor":"28008,75",
+       "escriturado":"S",
+       "edificacao":"QD - 11",
+       "contratoAlternativo":"0121",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0121",
+       "numeroImovel":"358"
+    },
+    {
+       "codigo":"LT -21",
+       "valor":"28008,75",
+       "escriturado":"S",
+       "edificacao":"QD - 11",
+       "contratoAlternativo":"0122",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0122",
+       "numeroImovel":"359"
+    },
+    {
+       "codigo":"LT -01",
+       "valor":"37862,82",
+       "escriturado":"S",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0196",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0196",
+       "numeroImovel":"301"
+    },
+    {
+       "codigo":"LT -02",
+       "valor":"35988,66",
+       "escriturado":"S",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0196",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0196",
+       "numeroImovel":"302"
+    },
+    {
+       "codigo":"LT -03",
+       "valor":"37004,4",
+       "escriturado":"S",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0196",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0196",
+       "numeroImovel":"303"
+    },
+    {
+       "codigo":"LT -07",
+       "valor":"31500",
+       "escriturado":"S",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0196",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0196",
+       "numeroImovel":"307"
+    },
+    {
+       "codigo":"LT -08",
+       "valor":"31500",
+       "escriturado":"S",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0196",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0196",
+       "numeroImovel":"308"
+    },
+    {
+       "codigo":"LT -09",
+       "valor":"31500",
+       "escriturado":"S",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0196",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0196",
+       "numeroImovel":"309"
+    },
+    {
+       "codigo":"LT -10",
+       "valor":"31500",
+       "escriturado":"S",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0196",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0196",
+       "numeroImovel":"310"
+    },
+    {
+       "codigo":"LT -11",
+       "valor":"31500",
+       "escriturado":"S",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0196",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0196",
+       "numeroImovel":"311"
+    },
+    {
+       "codigo":"LT -12",
+       "valor":"31500",
+       "escriturado":"S",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0196",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0196",
+       "numeroImovel":"312"
+    },
+    {
+       "codigo":"LT -13",
+       "valor":"31500",
+       "escriturado":"S",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0196",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0196",
+       "numeroImovel":"313"
+    },
+    {
+       "codigo":"LT -14",
+       "valor":"31500",
+       "escriturado":"N",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0196",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0196",
+       "numeroImovel":"314"
+    },
+    {
+       "codigo":"LT -15",
+       "valor":"31500",
+       "escriturado":"N",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0196",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0196",
+       "numeroImovel":"315"
+    },
+    {
+       "codigo":"LT -16",
+       "valor":"31500",
+       "escriturado":"N",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0196",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0196",
+       "numeroImovel":"316"
+    },
+    {
+       "codigo":"LT -17",
+       "valor":"31500",
+       "escriturado":"N",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0196",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0196",
+       "numeroImovel":"317"
+    },
+    {
+       "codigo":"LT -18",
+       "valor":"31500",
+       "escriturado":"N",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0196",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0196",
+       "numeroImovel":"318"
+    },
+    {
+       "codigo":"LT -19",
+       "valor":"31500",
+       "escriturado":"N",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0196",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0196",
+       "numeroImovel":"319"
+    },
+    {
+       "codigo":"LT -20",
+       "valor":"31498,42",
+       "escriturado":"N",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0196",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0196",
+       "numeroImovel":"320"
+    },
+    {
+       "codigo":"LT -21",
+       "valor":"35344,57",
+       "escriturado":"N",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0196",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0196",
+       "numeroImovel":"321"
+    },
+    {
+       "codigo":"LT -22",
+       "valor":"37058,23",
+       "escriturado":"N",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0196",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0196",
+       "numeroImovel":"322"
+    },
+    {
+       "codigo":"LT -02",
+       "valor":"31500",
+       "escriturado":"N",
+       "edificacao":"QD - 01",
+       "contratoAlternativo":"0319",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0319",
+       "numeroImovel":"2"
+    },
+    {
+       "codigo":"LT -03",
+       "valor":"31500",
+       "escriturado":"N",
+       "edificacao":"QD - 01",
+       "contratoAlternativo":"0319",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0319",
+       "numeroImovel":"3"
+    },
+    {
+       "codigo":"LT -04",
+       "valor":"31500",
+       "escriturado":"N",
+       "edificacao":"QD - 01",
+       "contratoAlternativo":"0319",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0319",
+       "numeroImovel":"4"
+    },
+    {
+       "codigo":"LT -05",
+       "valor":"31500",
+       "escriturado":"N",
+       "edificacao":"QD - 01",
+       "contratoAlternativo":"0319",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0319",
+       "numeroImovel":"5"
+    },
+    {
+       "codigo":"LT -06",
+       "valor":"31500",
+       "escriturado":"N",
+       "edificacao":"QD - 01",
+       "contratoAlternativo":"0319",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0319",
+       "numeroImovel":"6"
+    },
+    {
+       "codigo":"LT -07",
+       "valor":"31500",
+       "escriturado":"N",
+       "edificacao":"QD - 01",
+       "contratoAlternativo":"0319",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0319",
+       "numeroImovel":"7"
+    },
+    {
+       "codigo":"LT -08",
+       "valor":"31500",
+       "escriturado":"N",
+       "edificacao":"QD - 01",
+       "contratoAlternativo":"0319",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0319",
+       "numeroImovel":"8"
+    },
+    {
+       "codigo":"LT -09",
+       "valor":"31500",
+       "escriturado":"N",
+       "edificacao":"QD - 01",
+       "contratoAlternativo":"0319",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0319",
+       "numeroImovel":"9"
+    },
+    {
+       "codigo":"LT -10",
+       "valor":"31500",
+       "escriturado":"N",
+       "edificacao":"QD - 01",
+       "contratoAlternativo":"0319",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0319",
+       "numeroImovel":"10"
+    },
+    {
+       "codigo":"LT -11",
+       "valor":"31500",
+       "escriturado":"N",
+       "edificacao":"QD - 01",
+       "contratoAlternativo":"0319",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0319",
+       "numeroImovel":"11"
+    },
+    {
+       "codigo":"LT -12",
+       "valor":"31500",
+       "escriturado":"N",
+       "edificacao":"QD - 01",
+       "contratoAlternativo":"0319",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0319",
+       "numeroImovel":"12"
+    },
+    {
+       "codigo":"LT -13",
+       "valor":"31500",
+       "escriturado":"N",
+       "edificacao":"QD - 01",
+       "contratoAlternativo":"0319",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0319",
+       "numeroImovel":"13"
+    },
+    {
+       "codigo":"LT -15",
+       "valor":"45102,96",
+       "escriturado":"N",
+       "edificacao":"QD - 01",
+       "contratoAlternativo":"0319",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0319",
+       "numeroImovel":"15"
+    },
+    {
+       "codigo":"LT -16",
+       "valor":"40480,83",
+       "escriturado":"N",
+       "edificacao":"QD - 01",
+       "contratoAlternativo":"0319",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0319",
+       "numeroImovel":"16"
+    },
+    {
+       "codigo":"LT -17",
+       "valor":"39468,59",
+       "escriturado":"N",
+       "edificacao":"QD - 01",
+       "contratoAlternativo":"0319",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0319",
+       "numeroImovel":"17"
+    },
+    {
+       "codigo":"LT -04",
+       "valor":"42018,48",
+       "escriturado":"S",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0475",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0475",
+       "numeroImovel":"304"
+    },
+    {
+       "codigo":"LT -05",
+       "valor":"43137,36",
+       "escriturado":"S",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0475",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0475",
+       "numeroImovel":"305"
+    },
+    {
+       "codigo":"LT -06",
+       "valor":"48062,7",
+       "escriturado":"S",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0475",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0475",
+       "numeroImovel":"306"
+    },
+    {
+       "codigo":"LT -23",
+       "valor":"41381,15",
+       "escriturado":"N",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0475",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0475",
+       "numeroImovel":"323"
+    },
+    {
+       "codigo":"LT -24",
+       "valor":"39441,87",
+       "escriturado":"N",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0475",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0475",
+       "numeroImovel":"324"
+    },
+    {
+       "codigo":"LT -25",
+       "valor":"35098,27",
+       "escriturado":"N",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0475",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0475",
+       "numeroImovel":"325"
+    },
+    {
+       "codigo":"LT -26",
+       "valor":"35100",
+       "escriturado":"N",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0475",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0475",
+       "numeroImovel":"326"
+    },
+    {
+       "codigo":"LT -27",
+       "valor":"35100",
+       "escriturado":"N",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0475",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0475",
+       "numeroImovel":"327"
+    },
+    {
+       "codigo":"LT -28",
+       "valor":"35100",
+       "escriturado":"N",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0475",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0475",
+       "numeroImovel":"328"
+    },
+    {
+       "codigo":"LT -29",
+       "valor":"35100",
+       "escriturado":"N",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0475",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0475",
+       "numeroImovel":"329"
+    },
+    {
+       "codigo":"LT -30",
+       "valor":"35100",
+       "escriturado":"N",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0475",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0475",
+       "numeroImovel":"330"
+    },
+    {
+       "codigo":"LT -31",
+       "valor":"35100",
+       "escriturado":"S",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0475",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0475",
+       "numeroImovel":"331"
+    },
+    {
+       "codigo":"LT -32",
+       "valor":"35100",
+       "escriturado":"S",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0475",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0475",
+       "numeroImovel":"332"
+    },
+    {
+       "codigo":"LT -33",
+       "valor":"35100",
+       "escriturado":"S",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0475",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0475",
+       "numeroImovel":"333"
+    },
+    {
+       "codigo":"LT -34",
+       "valor":"35100",
+       "escriturado":"S",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0475",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0475",
+       "numeroImovel":"334"
+    },
+    {
+       "codigo":"LT -35",
+       "valor":"35100",
+       "escriturado":"S",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0475",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0475",
+       "numeroImovel":"335"
+    },
+    {
+       "codigo":"LT -36",
+       "valor":"35100",
+       "escriturado":"S",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0475",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0475",
+       "numeroImovel":"336"
+    },
+    {
+       "codigo":"LT -37",
+       "valor":"35100",
+       "escriturado":"S",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0475",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0475",
+       "numeroImovel":"337"
+    },
+    {
+       "codigo":"LT -38",
+       "valor":"35100",
+       "escriturado":"S",
+       "edificacao":"QD - 10",
+       "contratoAlternativo":"0475",
+       "empreendimento":"ALD.01.0002",
+       "contrato":"0475",
+       "numeroImovel":"338"
+    },
+    {
+       "codigo":"LT - 07",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"20061",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0079",
+       "numeroImovel":"667"
+    },
+    {
+       "codigo":"LT - 08",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"20061",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0079",
+       "numeroImovel":"668"
+    },
+    {
+       "codigo":"LT - 09",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"20061",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0079",
+       "numeroImovel":"669"
+    },
+    {
+       "codigo":"LT - 10",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"20061",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0079",
+       "numeroImovel":"670"
+    },
+    {
+       "codigo":"LT - 11",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"20061",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0079",
+       "numeroImovel":"671"
+    },
+    {
+       "codigo":"LT - 12",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"20061",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0079",
+       "numeroImovel":"672"
+    },
+    {
+       "codigo":"LT - 13",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"20061",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0079",
+       "numeroImovel":"673"
+    },
+    {
+       "codigo":"LT - 14",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"20061",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0079",
+       "numeroImovel":"674"
+    },
+    {
+       "codigo":"LT - 15",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"20061",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0079",
+       "numeroImovel":"675"
+    },
+    {
+       "codigo":"LT - 16",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"20061",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0079",
+       "numeroImovel":"676"
+    },
+    {
+       "codigo":"LT - 17",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"20061",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0079",
+       "numeroImovel":"677"
+    },
+    {
+       "codigo":"LT - 18",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"20061",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0079",
+       "numeroImovel":"678"
+    },
+    {
+       "codigo":"LT - 19",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"20061",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0079",
+       "numeroImovel":"679"
+    },
+    {
+       "codigo":"LT - 20",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"20061",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0079",
+       "numeroImovel":"680"
+    },
+    {
+       "codigo":"LT - 21",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"20061",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0079",
+       "numeroImovel":"681"
+    },
+    {
+       "codigo":"LT - 24",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 19",
+       "contratoAlternativo":"20155",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0177",
+       "numeroImovel":"726"
+    },
+    {
+       "codigo":"LT - 25",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 19",
+       "contratoAlternativo":"20155",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0177",
+       "numeroImovel":"727"
+    },
+    {
+       "codigo":"LT - 26",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 19",
+       "contratoAlternativo":"20155",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0177",
+       "numeroImovel":"728"
+    },
+    {
+       "codigo":"LT - 27",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 19",
+       "contratoAlternativo":"20155",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0177",
+       "numeroImovel":"729"
+    },
+    {
+       "codigo":"LT - 28",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 19",
+       "contratoAlternativo":"20155",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0177",
+       "numeroImovel":"730"
+    },
+    {
+       "codigo":"LT - 29",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 19",
+       "contratoAlternativo":"20155",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0177",
+       "numeroImovel":"731"
+    },
+    {
+       "codigo":"LT - 30",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 19",
+       "contratoAlternativo":"20155",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0177",
+       "numeroImovel":"732"
+    },
+    {
+       "codigo":"LT - 31",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 19",
+       "contratoAlternativo":"20155",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0177",
+       "numeroImovel":"733"
+    },
+    {
+       "codigo":"LT - 32",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 19",
+       "contratoAlternativo":"20155",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0177",
+       "numeroImovel":"734"
+    },
+    {
+       "codigo":"LT - 33",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 19",
+       "contratoAlternativo":"20155",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"0177",
+       "numeroImovel":"735"
+    },
+    {
+       "codigo":"LT - 34",
+       "valor":"21301,2",
+       "escriturado":"S",
+       "edificacao":"QD - 20",
+       "contratoAlternativo":"19421",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"9421",
+       "numeroImovel":"770"
+    },
+    {
+       "codigo":"LT - 40",
+       "valor":"18112,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"19601",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"9601",
+       "numeroImovel":"700"
+    },
+    {
+       "codigo":"LT - 41",
+       "valor":"18112,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"19601",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"9601",
+       "numeroImovel":"701"
+    },
+    {
+       "codigo":"LT - 42",
+       "valor":"18112,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"19601",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"9601",
+       "numeroImovel":"702"
+    },
+    {
+       "codigo":"LT - 28",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"19691",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"9717",
+       "numeroImovel":"688"
+    },
+    {
+       "codigo":"LT - 29",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"19691",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"9717",
+       "numeroImovel":"689"
+    },
+    {
+       "codigo":"LT - 30",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"19691",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"9717",
+       "numeroImovel":"690"
+    },
+    {
+       "codigo":"LT - 31",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"19691",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"9717",
+       "numeroImovel":"691"
+    },
+    {
+       "codigo":"LT - 32",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"19691",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"9717",
+       "numeroImovel":"692"
+    },
+    {
+       "codigo":"LT - 33",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"19691",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"9717",
+       "numeroImovel":"693"
+    },
+    {
+       "codigo":"LT - 34",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"19691",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"9717",
+       "numeroImovel":"694"
+    },
+    {
+       "codigo":"LT - 35",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"19691",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"9717",
+       "numeroImovel":"695"
+    },
+    {
+       "codigo":"LT - 36",
+       "valor":"19687,5",
+       "escriturado":"S",
+       "edificacao":"QD - 18",
+       "contratoAlternativo":"19691",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"9717",
+       "numeroImovel":"696"
+    },
+    {
+       "codigo":"LT - 28",
+       "valor":"18900",
+       "escriturado":"S",
+       "edificacao":"QD - 20",
+       "contratoAlternativo":"19691",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"9717",
+       "numeroImovel":"764"
+    },
+    {
+       "codigo":"LT - 29",
+       "valor":"18900",
+       "escriturado":"S",
+       "edificacao":"QD - 20",
+       "contratoAlternativo":"19691",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"9717",
+       "numeroImovel":"765"
+    },
+    {
+       "codigo":"LT - 30",
+       "valor":"18900",
+       "escriturado":"S",
+       "edificacao":"QD - 20",
+       "contratoAlternativo":"19691",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"9717",
+       "numeroImovel":"766"
+    },
+    {
+       "codigo":"LT - 31",
+       "valor":"18900",
+       "escriturado":"S",
+       "edificacao":"QD - 20",
+       "contratoAlternativo":"19691",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"9717",
+       "numeroImovel":"767"
+    },
+    {
+       "codigo":"LT - 32",
+       "valor":"18900",
+       "escriturado":"S",
+       "edificacao":"QD - 20",
+       "contratoAlternativo":"19691",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"9717",
+       "numeroImovel":"768"
+    },
+    {
+       "codigo":"LT - 33",
+       "valor":"18900",
+       "escriturado":"S",
+       "edificacao":"QD - 20",
+       "contratoAlternativo":"19691",
+       "empreendimento":"CMR.01.0005",
+       "contrato":"9717",
+       "numeroImovel":"769"
+    },
+    {
+       "codigo":"LT - 07",
+       "valor":"24806,25",
+       "escriturado":"S",
+       "edificacao":"QD - 22",
+       "contratoAlternativo":"24158",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4158",
+       "numeroImovel":"460"
+    },
+    {
+       "codigo":"LT - 08",
+       "valor":"24806,25",
+       "escriturado":"S",
+       "edificacao":"QD - 22",
+       "contratoAlternativo":"24158",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4158",
+       "numeroImovel":"461"
+    },
+    {
+       "codigo":"LT - 09",
+       "valor":"24806,25",
+       "escriturado":"S",
+       "edificacao":"QD - 22",
+       "contratoAlternativo":"24158",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4158",
+       "numeroImovel":"462"
+    },
+    {
+       "codigo":"LT - 10",
+       "valor":"24806,25",
+       "escriturado":"S",
+       "edificacao":"QD - 22",
+       "contratoAlternativo":"24158",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4158",
+       "numeroImovel":"463"
+    },
+    {
+       "codigo":"LT - 11",
+       "valor":"24806,25",
+       "escriturado":"S",
+       "edificacao":"QD - 22",
+       "contratoAlternativo":"24158",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4158",
+       "numeroImovel":"464"
+    },
+    {
+       "codigo":"LT - 12",
+       "valor":"24806,25",
+       "escriturado":"S",
+       "edificacao":"QD - 22",
+       "contratoAlternativo":"24158",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4158",
+       "numeroImovel":"465"
+    },
+    {
+       "codigo":"LT - 13",
+       "valor":"24806,25",
+       "escriturado":"S",
+       "edificacao":"QD - 22",
+       "contratoAlternativo":"24158",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4158",
+       "numeroImovel":"466"
+    },
+    {
+       "codigo":"LT - 14",
+       "valor":"24806,25",
+       "escriturado":"S",
+       "edificacao":"QD - 22",
+       "contratoAlternativo":"24158",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4158",
+       "numeroImovel":"467"
+    },
+    {
+       "codigo":"LT - 15",
+       "valor":"24806,25",
+       "escriturado":"S",
+       "edificacao":"QD - 22",
+       "contratoAlternativo":"24158",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4158",
+       "numeroImovel":"468"
+    },
+    {
+       "codigo":"LT - 16",
+       "valor":"24806,25",
+       "escriturado":"S",
+       "edificacao":"QD - 22",
+       "contratoAlternativo":"24158",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4158",
+       "numeroImovel":"469"
+    },
+    {
+       "codigo":"LT - 17",
+       "valor":"24806,25",
+       "escriturado":"S",
+       "edificacao":"QD - 22",
+       "contratoAlternativo":"24158",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4158",
+       "numeroImovel":"470"
+    },
+    {
+       "codigo":"LT - 18",
+       "valor":"24806,25",
+       "escriturado":"S",
+       "edificacao":"QD - 22",
+       "contratoAlternativo":"24158",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4158",
+       "numeroImovel":"471"
+    },
+    {
+       "codigo":"LT - 09",
+       "valor":"32744,25",
+       "escriturado":"S",
+       "edificacao":"QD - 16",
+       "contratoAlternativo":"24748",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4781",
+       "numeroImovel":"265"
+    },
+    {
+       "codigo":"LT - 10",
+       "valor":"32744,25",
+       "escriturado":"S",
+       "edificacao":"QD - 16",
+       "contratoAlternativo":"24748",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4781",
+       "numeroImovel":"266"
+    },
+    {
+       "codigo":"LT - 11",
+       "valor":"32744,25",
+       "escriturado":"S",
+       "edificacao":"QD - 16",
+       "contratoAlternativo":"24748",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4781",
+       "numeroImovel":"267"
+    },
+    {
+       "codigo":"LT - 12",
+       "valor":"32744,25",
+       "escriturado":"S",
+       "edificacao":"QD - 16",
+       "contratoAlternativo":"24748",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4781",
+       "numeroImovel":"268"
+    },
+    {
+       "codigo":"LT - 13",
+       "valor":"32744,25",
+       "escriturado":"S",
+       "edificacao":"QD - 16",
+       "contratoAlternativo":"24748",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4781",
+       "numeroImovel":"269"
+    },
+    {
+       "codigo":"LT - 14",
+       "valor":"32744,25",
+       "escriturado":"S",
+       "edificacao":"QD - 16",
+       "contratoAlternativo":"24748",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4781",
+       "numeroImovel":"270"
+    },
+    {
+       "codigo":"LT - 15",
+       "valor":"32744,25",
+       "escriturado":"S",
+       "edificacao":"QD - 16",
+       "contratoAlternativo":"24748",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4781",
+       "numeroImovel":"271"
+    },
+    {
+       "codigo":"LT - 16",
+       "valor":"32744,25",
+       "escriturado":"S",
+       "edificacao":"QD - 16",
+       "contratoAlternativo":"24748",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4781",
+       "numeroImovel":"272"
+    },
+    {
+       "codigo":"LT - 04",
+       "valor":"38438,4",
+       "escriturado":"S",
+       "edificacao":"QD - 16",
+       "contratoAlternativo":"24798",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4830",
+       "numeroImovel":"260"
+    },
+    {
+       "codigo":"LT - 21",
+       "valor":"36331,68",
+       "escriturado":"S",
+       "edificacao":"QD - 27",
+       "contratoAlternativo":"24893",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4928",
+       "numeroImovel":"620"
+    },
+    {
+       "codigo":"LT - 22",
+       "valor":"36331,68",
+       "escriturado":"S",
+       "edificacao":"QD - 27",
+       "contratoAlternativo":"24894",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4929",
+       "numeroImovel":"621"
+    },
+    {
+       "codigo":"LT - 23",
+       "valor":"36331,68",
+       "escriturado":"S",
+       "edificacao":"QD - 27",
+       "contratoAlternativo":"24895",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4930",
+       "numeroImovel":"622"
+    },
+    {
+       "codigo":"LT - 24",
+       "valor":"36331,68",
+       "escriturado":"S",
+       "edificacao":"QD - 27",
+       "contratoAlternativo":"24896",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4931",
+       "numeroImovel":"623"
+    },
+    {
+       "codigo":"LT - 25",
+       "valor":"36331,68",
+       "escriturado":"S",
+       "edificacao":"QD - 27",
+       "contratoAlternativo":"24897",
+       "empreendimento":"CMR.01.0007",
+       "contrato":"4932",
+       "numeroImovel":"624"
+    },
+    {
+       "codigo":"LT - 16",
+       "valor":"26755,91",
+       "escriturado":"N",
+       "edificacao":"QD - 16",
+       "contratoAlternativo":"18028",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"8028",
+       "numeroImovel":"507"
+    },
+    {
+       "codigo":"LT - 20",
+       "valor":"27025,91",
+       "escriturado":"S",
+       "edificacao":"QD - 12",
+       "contratoAlternativo":"18197",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"8197",
+       "numeroImovel":"354"
+    },
+    {
+       "codigo":"LT - 21",
+       "valor":"27025,91",
+       "escriturado":"S",
+       "edificacao":"QD - 12",
+       "contratoAlternativo":"18199",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"8199",
+       "numeroImovel":"355"
+    },
+    {
+       "codigo":"LT - 22",
+       "valor":"27025,91",
+       "escriturado":"S",
+       "edificacao":"QD - 12",
+       "contratoAlternativo":"18201",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"8201",
+       "numeroImovel":"356"
+    },
+    {
+       "codigo":"LT - 18",
+       "valor":"26755,92",
+       "escriturado":"S",
+       "edificacao":"QD - 26",
+       "contratoAlternativo":"18249",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"8249",
+       "numeroImovel":"872"
+    },
+    {
+       "codigo":"LT - 19",
+       "valor":"26755,91",
+       "escriturado":"S",
+       "edificacao":"QD - 26",
+       "contratoAlternativo":"18249",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"8249",
+       "numeroImovel":"873"
+    },
+    {
+       "codigo":"LT - 21",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 27",
+       "contratoAlternativo":"18258",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"8258",
+       "numeroImovel":"929"
+    },
+    {
+       "codigo":"LT - 22",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 27",
+       "contratoAlternativo":"18258",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"8258",
+       "numeroImovel":"930"
+    },
+    {
+       "codigo":"LT - 05",
+       "valor":"37011,23",
+       "escriturado":"S",
+       "edificacao":"QD - 28",
+       "contratoAlternativo":"18278",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"8278",
+       "numeroImovel":"966"
+    },
+    {
+       "codigo":"LT - 07",
+       "valor":"30314,59",
+       "escriturado":"S",
+       "edificacao":"QD - 28",
+       "contratoAlternativo":"18290",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"8290",
+       "numeroImovel":"968"
+    },
+    {
+       "codigo":"LT - 03",
+       "valor":"28874,43",
+       "escriturado":"S",
+       "edificacao":"QD - 28",
+       "contratoAlternativo":"18345",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"8345",
+       "numeroImovel":"964"
+    },
+    {
+       "codigo":"LT - 02",
+       "valor":"30000",
+       "escriturado":"S",
+       "edificacao":"QD - 31",
+       "contratoAlternativo":"18675",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"8675",
+       "numeroImovel":"1040"
+    },
+    {
+       "codigo":"LT - 20",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 28",
+       "contratoAlternativo":"18370",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9006",
+       "numeroImovel":"981"
+    },
+    {
+       "codigo":"LT - 21",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 28",
+       "contratoAlternativo":"18370",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9006",
+       "numeroImovel":"982"
+    },
+    {
+       "codigo":"LT - 22",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 28",
+       "contratoAlternativo":"18370",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9006",
+       "numeroImovel":"983"
+    },
+    {
+       "codigo":"LT - 23",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 28",
+       "contratoAlternativo":"18370",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9006",
+       "numeroImovel":"984"
+    },
+    {
+       "codigo":"LT - 24",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 28",
+       "contratoAlternativo":"18370",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9006",
+       "numeroImovel":"985"
+    },
+    {
+       "codigo":"LT - 25",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 28",
+       "contratoAlternativo":"18370",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9006",
+       "numeroImovel":"986"
+    },
+    {
+       "codigo":"LT - 26",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 28",
+       "contratoAlternativo":"18370",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9006",
+       "numeroImovel":"987"
+    },
+    {
+       "codigo":"LT - 27",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 28",
+       "contratoAlternativo":"18370",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9006",
+       "numeroImovel":"988"
+    },
+    {
+       "codigo":"LT - 28",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 28",
+       "contratoAlternativo":"18370",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9006",
+       "numeroImovel":"989"
+    },
+    {
+       "codigo":"LT - 29",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 28",
+       "contratoAlternativo":"18370",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9006",
+       "numeroImovel":"990"
+    },
+    {
+       "codigo":"LT - 32",
+       "valor":"15000",
+       "escriturado":"S",
+       "edificacao":"QD - 28",
+       "contratoAlternativo":"18380",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9013",
+       "numeroImovel":"993"
+    },
+    {
+       "codigo":"LT - 30",
+       "valor":"15000",
+       "escriturado":"S",
+       "edificacao":"QD - 28",
+       "contratoAlternativo":"18378",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9014",
+       "numeroImovel":"991"
+    },
+    {
+       "codigo":"LT - 31",
+       "valor":"15000",
+       "escriturado":"S",
+       "edificacao":"QD - 28",
+       "contratoAlternativo":"18379",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9015",
+       "numeroImovel":"992"
+    },
+    {
+       "codigo":"LT - 01",
+       "valor":"43472,52",
+       "escriturado":"S",
+       "edificacao":"QD - 31",
+       "contratoAlternativo":"18400",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9036",
+       "numeroImovel":"1039"
+    },
+    {
+       "codigo":"LT - 23",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 31",
+       "contratoAlternativo":"18400",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9036",
+       "numeroImovel":"1061"
+    },
+    {
+       "codigo":"LT - 24",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 31",
+       "contratoAlternativo":"18400",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9036",
+       "numeroImovel":"1062"
+    },
+    {
+       "codigo":"LT - 25",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 31",
+       "contratoAlternativo":"18400",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9036",
+       "numeroImovel":"1063"
+    },
+    {
+       "codigo":"LT - 26",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 31",
+       "contratoAlternativo":"18400",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9036",
+       "numeroImovel":"1064"
+    },
+    {
+       "codigo":"LT - 27",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 31",
+       "contratoAlternativo":"18400",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9036",
+       "numeroImovel":"1065"
+    },
+    {
+       "codigo":"LT - 28",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 31",
+       "contratoAlternativo":"18400",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9036",
+       "numeroImovel":"1066"
+    },
+    {
+       "codigo":"LT - 29",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 31",
+       "contratoAlternativo":"18400",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9036",
+       "numeroImovel":"1067"
+    },
+    {
+       "codigo":"LT - 30",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 31",
+       "contratoAlternativo":"18400",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9036",
+       "numeroImovel":"1068"
+    },
+    {
+       "codigo":"LT - 31",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 31",
+       "contratoAlternativo":"18400",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9036",
+       "numeroImovel":"1069"
+    },
+    {
+       "codigo":"LT - 32",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 31",
+       "contratoAlternativo":"18400",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9036",
+       "numeroImovel":"1070"
+    },
+    {
+       "codigo":"LT - 33",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 31",
+       "contratoAlternativo":"18400",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9036",
+       "numeroImovel":"1071"
+    },
+    {
+       "codigo":"LT - 34",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 31",
+       "contratoAlternativo":"18400",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9036",
+       "numeroImovel":"1072"
+    },
+    {
+       "codigo":"LT - 35",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 31",
+       "contratoAlternativo":"18400",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9036",
+       "numeroImovel":"1073"
+    },
+    {
+       "codigo":"LT - 02",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 29",
+       "contratoAlternativo":"18417",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9054",
+       "numeroImovel":"998"
+    },
+    {
+       "codigo":"LT - 03",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 29",
+       "contratoAlternativo":"18417",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9054",
+       "numeroImovel":"999"
+    },
+    {
+       "codigo":"LT - 04",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 29",
+       "contratoAlternativo":"18417",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9054",
+       "numeroImovel":"1000"
+    },
+    {
+       "codigo":"LT - 05",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 29",
+       "contratoAlternativo":"18417",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9054",
+       "numeroImovel":"1001"
+    },
+    {
+       "codigo":"LT - 06",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 29",
+       "contratoAlternativo":"18417",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9054",
+       "numeroImovel":"1002"
+    },
+    {
+       "codigo":"LT - 07",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 29",
+       "contratoAlternativo":"18417",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9054",
+       "numeroImovel":"1003"
+    },
+    {
+       "codigo":"LT - 08",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 29",
+       "contratoAlternativo":"18417",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9054",
+       "numeroImovel":"1004"
+    },
+    {
+       "codigo":"LT - 09",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 29",
+       "contratoAlternativo":"18417",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9054",
+       "numeroImovel":"1005"
+    },
+    {
+       "codigo":"LT - 10",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 29",
+       "contratoAlternativo":"18417",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9054",
+       "numeroImovel":"1006"
+    },
+    {
+       "codigo":"LT - 11",
+       "valor":"23400",
+       "escriturado":"S",
+       "edificacao":"QD - 29",
+       "contratoAlternativo":"18417",
+       "empreendimento":"CMR.01.0009",
+       "contrato":"9054",
+       "numeroImovel":"1007"
+    },
+    {
+       "codigo":"LT -04",
+       "valor":"23000",
+       "escriturado":"N",
+       "edificacao":"QD - 07",
+       "contratoAlternativo":"0001",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0001",
+       "numeroImovel":"172"
+    },
+    {
+       "codigo":"LT -05",
+       "valor":"23000",
+       "escriturado":"N",
+       "edificacao":"QD - 07",
+       "contratoAlternativo":"0001",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0001",
+       "numeroImovel":"173"
+    },
+    {
+       "codigo":"LT -06",
+       "valor":"23000",
+       "escriturado":"N",
+       "edificacao":"QD - 07",
+       "contratoAlternativo":"0001",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0001",
+       "numeroImovel":"174"
+    },
+    {
+       "codigo":"LT -07",
+       "valor":"23000",
+       "escriturado":"N",
+       "edificacao":"QD - 07",
+       "contratoAlternativo":"0001",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0001",
+       "numeroImovel":"175"
+    },
+    {
+       "codigo":"LT -08",
+       "valor":"23000",
+       "escriturado":"N",
+       "edificacao":"QD - 07",
+       "contratoAlternativo":"0001",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0001",
+       "numeroImovel":"176"
+    },
+    {
+       "codigo":"LT -09",
+       "valor":"23000",
+       "escriturado":"N",
+       "edificacao":"QD - 07",
+       "contratoAlternativo":"0001",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0001",
+       "numeroImovel":"177"
+    },
+    {
+       "codigo":"LT -10",
+       "valor":"23000",
+       "escriturado":"N",
+       "edificacao":"QD - 07",
+       "contratoAlternativo":"0001",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0001",
+       "numeroImovel":"178"
+    },
+    {
+       "codigo":"LT -11",
+       "valor":"23000",
+       "escriturado":"N",
+       "edificacao":"QD - 07",
+       "contratoAlternativo":"0001",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0001",
+       "numeroImovel":"179"
+    },
+    {
+       "codigo":"LT -12",
+       "valor":"23000",
+       "escriturado":"N",
+       "edificacao":"QD - 07",
+       "contratoAlternativo":"0001",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0001",
+       "numeroImovel":"180"
+    },
+    {
+       "codigo":"LT -13",
+       "valor":"23000",
+       "escriturado":"N",
+       "edificacao":"QD - 07",
+       "contratoAlternativo":"0001",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0001",
+       "numeroImovel":"181"
+    },
+    {
+       "codigo":"LT -14",
+       "valor":"23000",
+       "escriturado":"N",
+       "edificacao":"QD - 07",
+       "contratoAlternativo":"0001",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0001",
+       "numeroImovel":"182"
+    },
+    {
+       "codigo":"LT -15",
+       "valor":"23000",
+       "escriturado":"N",
+       "edificacao":"QD - 07",
+       "contratoAlternativo":"0001",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0001",
+       "numeroImovel":"183"
+    },
+    {
+       "codigo":"LT -16",
+       "valor":"23000",
+       "escriturado":"N",
+       "edificacao":"QD - 07",
+       "contratoAlternativo":"0001",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0001",
+       "numeroImovel":"184"
+    },
+    {
+       "codigo":"LT -17",
+       "valor":"23000",
+       "escriturado":"N",
+       "edificacao":"QD - 07",
+       "contratoAlternativo":"0001",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0001",
+       "numeroImovel":"185"
+    },
+    {
+       "codigo":"LT -01",
+       "valor":"23000",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0001",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0001",
+       "numeroImovel":"197"
+    },
+    {
+       "codigo":"LT -02",
+       "valor":"23000",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0001",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0001",
+       "numeroImovel":"198"
+    },
+    {
+       "codigo":"LT -03",
+       "valor":"23000",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0001",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0001",
+       "numeroImovel":"199"
+    },
+    {
+       "codigo":"LT -04",
+       "valor":"23000",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0001",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0001",
+       "numeroImovel":"200"
+    },
+    {
+       "codigo":"LT -05",
+       "valor":"23000",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0001",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0001",
+       "numeroImovel":"201"
+    },
+    {
+       "codigo":"LT -06",
+       "valor":"23000",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0001",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0001",
+       "numeroImovel":"202"
+    },
+    {
+       "codigo":"LT -27",
+       "valor":"23000",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0001",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0001",
+       "numeroImovel":"223"
+    },
+    {
+       "codigo":"LT -28",
+       "valor":"23000",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0001",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0001",
+       "numeroImovel":"224"
+    },
+    {
+       "codigo":"LT -29",
+       "valor":"23000",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0001",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0001",
+       "numeroImovel":"454"
+    },
+    {
+       "codigo":"LT -11",
+       "valor":"23388,75",
+       "escriturado":"N",
+       "edificacao":"QD - 09",
+       "contratoAlternativo":"0094",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0094",
+       "numeroImovel":"11"
+    },
+    {
+       "codigo":"LT -12",
+       "valor":"23388,75",
+       "escriturado":"N",
+       "edificacao":"QD - 09",
+       "contratoAlternativo":"0094",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0094",
+       "numeroImovel":"12"
+    },
+    {
+       "codigo":"LT -13",
+       "valor":"23388,75",
+       "escriturado":"N",
+       "edificacao":"QD - 09",
+       "contratoAlternativo":"0094",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0094",
+       "numeroImovel":"13"
+    },
+    {
+       "codigo":"LT -14",
+       "valor":"23388,75",
+       "escriturado":"N",
+       "edificacao":"QD - 09",
+       "contratoAlternativo":"0094",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0094",
+       "numeroImovel":"14"
+    },
+    {
+       "codigo":"LT -15",
+       "valor":"23388,75",
+       "escriturado":"N",
+       "edificacao":"QD - 09",
+       "contratoAlternativo":"0094",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0094",
+       "numeroImovel":"15"
+    },
+    {
+       "codigo":"LT -16",
+       "valor":"23388,75",
+       "escriturado":"N",
+       "edificacao":"QD - 09",
+       "contratoAlternativo":"0094",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0094",
+       "numeroImovel":"16"
+    },
+    {
+       "codigo":"LT -17",
+       "valor":"23388,75",
+       "escriturado":"N",
+       "edificacao":"QD - 09",
+       "contratoAlternativo":"0094",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0094",
+       "numeroImovel":"17"
+    },
+    {
+       "codigo":"LT -18",
+       "valor":"23388,75",
+       "escriturado":"N",
+       "edificacao":"QD - 09",
+       "contratoAlternativo":"0094",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0094",
+       "numeroImovel":"18"
+    },
+    {
+       "codigo":"LT -24",
+       "valor":"42763,87",
+       "escriturado":"N",
+       "edificacao":"QD - 13",
+       "contratoAlternativo":"0098",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0098",
+       "numeroImovel":"304"
+    },
+    {
+       "codigo":"LT -01",
+       "valor":"25000",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0160",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0160",
+       "numeroImovel":"197"
+    },
+    {
+       "codigo":"LT -02",
+       "valor":"25000",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0160",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0160",
+       "numeroImovel":"198"
+    },
+    {
+       "codigo":"LT -03",
+       "valor":"25000",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0160",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0160",
+       "numeroImovel":"199"
+    },
+    {
+       "codigo":"LT -04",
+       "valor":"25000",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0160",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0160",
+       "numeroImovel":"200"
+    },
+    {
+       "codigo":"LT -05",
+       "valor":"25000",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0160",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0160",
+       "numeroImovel":"201"
+    },
+    {
+       "codigo":"LT -06",
+       "valor":"25000",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0160",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0160",
+       "numeroImovel":"202"
+    },
+    {
+       "codigo":"LT -27",
+       "valor":"25000",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0160",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0160",
+       "numeroImovel":"223"
+    },
+    {
+       "codigo":"LT -28",
+       "valor":"25000",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0160",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0160",
+       "numeroImovel":"224"
+    },
+    {
+       "codigo":"LT -29",
+       "valor":"25000",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0160",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0160",
+       "numeroImovel":"454"
+    },
+    {
+       "codigo":"LT -07",
+       "valor":"22113",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0198",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0198",
+       "numeroImovel":"203"
+    },
+    {
+       "codigo":"LT -08",
+       "valor":"22113",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0198",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0198",
+       "numeroImovel":"204"
+    },
+    {
+       "codigo":"LT -09",
+       "valor":"24570",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0200",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0200",
+       "numeroImovel":"205"
+    },
+    {
+       "codigo":"LT -10",
+       "valor":"24570",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0200",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0200",
+       "numeroImovel":"206"
+    },
+    {
+       "codigo":"LT -11",
+       "valor":"24570",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0200",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0200",
+       "numeroImovel":"207"
+    },
+    {
+       "codigo":"LT -12",
+       "valor":"24570",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0200",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0200",
+       "numeroImovel":"208"
+    },
+    {
+       "codigo":"LT -13",
+       "valor":"24570",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0200",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0200",
+       "numeroImovel":"209"
+    },
+    {
+       "codigo":"LT -14",
+       "valor":"24570",
+       "escriturado":"S",
+       "edificacao":"QD - 08",
+       "contratoAlternativo":"0200",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0200",
+       "numeroImovel":"210"
+    },
+    {
+       "codigo":"LT -02",
+       "valor":"24570",
+       "escriturado":"N",
+       "edificacao":"QD - 09",
+       "contratoAlternativo":"0201",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0201",
+       "numeroImovel":"2"
+    },
+    {
+       "codigo":"LT -04",
+       "valor":"24570",
+       "escriturado":"N",
+       "edificacao":"QD - 09",
+       "contratoAlternativo":"0201",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0201",
+       "numeroImovel":"4"
+    },
+    {
+       "codigo":"LT -05",
+       "valor":"24570",
+       "escriturado":"N",
+       "edificacao":"QD - 09",
+       "contratoAlternativo":"0201",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0201",
+       "numeroImovel":"5"
+    },
+    {
+       "codigo":"LT -08",
+       "valor":"22113",
+       "escriturado":"N",
+       "edificacao":"QD - 09",
+       "contratoAlternativo":"0201",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0201",
+       "numeroImovel":"8"
+    },
+    {
+       "codigo":"LT -10",
+       "valor":"25798,5",
+       "escriturado":"N",
+       "edificacao":"QD - 09",
+       "contratoAlternativo":"0201",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0201",
+       "numeroImovel":"10"
+    },
+    {
+       "codigo":"LT -07",
+       "valor":"25798,5",
+       "escriturado":"N",
+       "edificacao":"QD - 13",
+       "contratoAlternativo":"0241",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0241",
+       "numeroImovel":"287"
+    },
+    {
+       "codigo":"LT -08",
+       "valor":"25798,5",
+       "escriturado":"N",
+       "edificacao":"QD - 13",
+       "contratoAlternativo":"0241",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0241",
+       "numeroImovel":"288"
+    },
+    {
+       "codigo":"LT -09",
+       "valor":"25798,5",
+       "escriturado":"N",
+       "edificacao":"QD - 13",
+       "contratoAlternativo":"0241",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0241",
+       "numeroImovel":"289"
+    },
+    {
+       "codigo":"LT -10",
+       "valor":"25798,5",
+       "escriturado":"N",
+       "edificacao":"QD - 13",
+       "contratoAlternativo":"0241",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0241",
+       "numeroImovel":"290"
+    },
+    {
+       "codigo":"LT -19",
+       "valor":"25798,5",
+       "escriturado":"N",
+       "edificacao":"QD - 13",
+       "contratoAlternativo":"0241",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0241",
+       "numeroImovel":"299"
+    },
+    {
+       "codigo":"LT -21",
+       "valor":"25798,5",
+       "escriturado":"N",
+       "edificacao":"QD - 13",
+       "contratoAlternativo":"0241",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0241",
+       "numeroImovel":"301"
+    },
+    {
+       "codigo":"LT -22",
+       "valor":"25798,5",
+       "escriturado":"N",
+       "edificacao":"QD - 13",
+       "contratoAlternativo":"0241",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0241",
+       "numeroImovel":"302"
+    },
+    {
+       "codigo":"LT -23",
+       "valor":"25798,5",
+       "escriturado":"N",
+       "edificacao":"QD - 13",
+       "contratoAlternativo":"0241",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0241",
+       "numeroImovel":"303"
+    },
+    {
+       "codigo":"LT -25",
+       "valor":"25798,5",
+       "escriturado":"N",
+       "edificacao":"QD - 13",
+       "contratoAlternativo":"0241",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0241",
+       "numeroImovel":"305"
+    },
+    {
+       "codigo":"LT -26",
+       "valor":"25798,5",
+       "escriturado":"N",
+       "edificacao":"QD - 13",
+       "contratoAlternativo":"0241",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0241",
+       "numeroImovel":"306"
+    },
+    {
+       "codigo":"LT -27",
+       "valor":"25798,5",
+       "escriturado":"N",
+       "edificacao":"QD - 13",
+       "contratoAlternativo":"0241",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0241",
+       "numeroImovel":"307"
+    },
+    {
+       "codigo":"LT -28",
+       "valor":"25798,5",
+       "escriturado":"N",
+       "edificacao":"QD - 13",
+       "contratoAlternativo":"0241",
+       "empreendimento":"CMR.01.0027",
+       "contrato":"0241",
+       "numeroImovel":"308"
+    },
+    {
+       "codigo":"LT -04",
+       "valor":"75740,94",
+       "escriturado":"N",
+       "edificacao":"QD - 17",
+       "contratoAlternativo":"0002",
+       "empreendimento":"CR3.01.0001",
+       "contrato":"0002",
+       "numeroImovel":"676"
+    },
+    {
+       "codigo":"LT -05",
+       "valor":"60311,79",
+       "escriturado":"N",
+       "edificacao":"QD - 17",
+       "contratoAlternativo":"0002",
+       "empreendimento":"CR3.01.0001",
+       "contrato":"0002",
+       "numeroImovel":"677"
+    },
+    {
+       "codigo":"LT -06",
+       "valor":"58072,41",
+       "escriturado":"N",
+       "edificacao":"QD - 17",
+       "contratoAlternativo":"0002",
+       "empreendimento":"CR3.01.0001",
+       "contrato":"0002",
+       "numeroImovel":"678"
+    },
+    {
+       "codigo":"LT -07",
+       "valor":"42525",
+       "escriturado":"N",
+       "edificacao":"QD - 17",
+       "contratoAlternativo":"0002",
+       "empreendimento":"CR3.01.0001",
+       "contrato":"0002",
+       "numeroImovel":"679"
+    },
+    {
+       "codigo":"LT -08",
+       "valor":"42525",
+       "escriturado":"N",
+       "edificacao":"QD - 17",
+       "contratoAlternativo":"0002",
+       "empreendimento":"CR3.01.0001",
+       "contrato":"0002",
+       "numeroImovel":"680"
+    },
+    {
+       "codigo":"LT -09",
+       "valor":"42525",
+       "escriturado":"N",
+       "edificacao":"QD - 17",
+       "contratoAlternativo":"0002",
+       "empreendimento":"CR3.01.0001",
+       "contrato":"0002",
+       "numeroImovel":"681"
+    },
+    {
+       "codigo":"LT -10",
+       "valor":"42525",
+       "escriturado":"N",
+       "edificacao":"QD - 17",
+       "contratoAlternativo":"0002",
+       "empreendimento":"CR3.01.0001",
+       "contrato":"0002",
+       "numeroImovel":"682"
+    },
+    {
+       "codigo":"LT -11",
+       "valor":"42525",
+       "escriturado":"N",
+       "edificacao":"QD - 17",
+       "contratoAlternativo":"0002",
+       "empreendimento":"CR3.01.0001",
+       "contrato":"0002",
+       "numeroImovel":"683"
+    },
+    {
+       "codigo":"LT -12",
+       "valor":"42525",
+       "escriturado":"N",
+       "edificacao":"QD - 17",
+       "contratoAlternativo":"0002",
+       "empreendimento":"CR3.01.0001",
+       "contrato":"0002",
+       "numeroImovel":"684"
+    },
+    {
+       "codigo":"LT -13",
+       "valor":"42525",
+       "escriturado":"N",
+       "edificacao":"QD - 17",
+       "contratoAlternativo":"0002",
+       "empreendimento":"CR3.01.0001",
+       "contrato":"0002",
+       "numeroImovel":"685"
+    },
+    {
+       "codigo":"LT -14",
+       "valor":"42525",
+       "escriturado":"N",
+       "edificacao":"QD - 17",
+       "contratoAlternativo":"0002",
+       "empreendimento":"CR3.01.0001",
+       "contrato":"0002",
+       "numeroImovel":"686"
+    },
+    {
+       "codigo":"LT -15",
+       "valor":"42525",
+       "escriturado":"N",
+       "edificacao":"QD - 17",
+       "contratoAlternativo":"0002",
+       "empreendimento":"CR3.01.0001",
+       "contrato":"0002",
+       "numeroImovel":"687"
+    },
+    {
+       "codigo":"LT -16",
+       "valor":"42525",
+       "escriturado":"N",
+       "edificacao":"QD - 17",
+       "contratoAlternativo":"0002",
+       "empreendimento":"CR3.01.0001",
+       "contrato":"0002",
+       "numeroImovel":"688"
+    }
+]

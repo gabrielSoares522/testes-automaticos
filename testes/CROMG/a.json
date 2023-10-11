@@ -1,0 +1,23 @@
+{
+    "recipient_type": "individual",
+    "type": "interactive",
+    "interactive": {
+        "type": "list",
+        "body": {
+            "text": "Selecione uma das opções abaixo:"
+        },
+        "action": {
+            "button": "Menu",
+            "sections": [
+                {
+                    "rows": [
+                        {"id": "1", "title": "Acompanhar envio", "description": "Acompanhar envio (Rastreio de Equipamento)" },
+                        {"id": "2", "title": "Produto com defeito", "description": "Produto com defeito ou avaria" },
+                        {"id": "3", "title": "Troca ou devolução" },
+                        {"id": "4", "title": "Acionar garantia" }
+                    ]
+                }
+            ]
+        }
+    }
+}
